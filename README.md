@@ -1,6 +1,7 @@
 # PDF.js
 
 PDF.js is a Portable Document Format (PDF) viewer that is built with HTML5.
+
 PDF.js是使用HTML5构建的便携式文档格式（PDF）查看器。
 
 PDF.js is community-driven and supported by Mozilla Labs. Our goal is to
